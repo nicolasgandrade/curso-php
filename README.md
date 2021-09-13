@@ -1,1 +1,1 @@
-# curso-php-do-zero-a-maestria
+# Curso: PHP do Zero à Maestria

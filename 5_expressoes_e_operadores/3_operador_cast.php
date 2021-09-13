@@ -11,7 +11,9 @@
 
     echo $a + 10 . "<-- Isso é uma soma de inteiros";
     echo "<br>";
-    
+
     if($a === 10){
-        echo '$a é idêntico a 12';
+        echo '$a é idêntico a 10';
+    } else{
+        echo'$a não é idêntico a 10';
     }
